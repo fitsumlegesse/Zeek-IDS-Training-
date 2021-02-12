@@ -20,27 +20,31 @@ You can start from here. You don’t need to understand everything today but hop
 >
 >> https://www.youtube.com/watch?v=GhGunM2YQeI&t=30s
 ### Official website
-https://zeek.org/
+> https://zeek.org/
 ### Official YouTube channel
-https://www.youtube.com/user/BroPlatform
+> https://www.youtube.com/user/BroPlatform
 ### Official Zeek Documentation
-https://docs.zeek.org/en/master/
+> https://docs.zeek.org/en/master/
 ### 1.Practice Zeek
 Without installing Zeek, practice scripts and command on Zeek
-http://try.bro.org/
+> http://try.bro.org/
 ## 5.Deploying Zeek on Ubuntu
-Shows how Zeek can be deployed on Ubuntu. Don’t use the procedure word to work as https://www.youtube.com/watch?v=4b_dW5JdE5U&t=3s
+> Shows how Zeek can be deployed on Ubuntu. Don’t use the procedure word to work as
+>
+>> https://www.youtube.com/watch?v=4b_dW5JdE5U&t=3s
 ## 6.Introduction to Elk Stack
-This section introduces a popular the SIEM Elk Stack
-https://www.youtube.com/watch?v=Hqn5p67uev4&t=651s
+> This section introduces a popular the SIEM Elk Stack
+>
+>>https://www.youtube.com/watch?v=Hqn5p67uev4&t=651s
 ## 7.Elk Stack Integration with Zeek
 This video introduces how Zeek logs can be imported into ELK Stack
-https://www.youtube.com/watch?v=PiEVVNN4xl0&t=355s
+> https://www.youtube.com/watch?v=PiEVVNN4xl0&t=355s
 ## 8.Blogs for better Understanding
 Here are some blogs and articles on understanding Zeek, deployment and integration with ELK Stack. Not all blogs are relevant for your work but are great to start building a zeek instance.
-A good introduction two Zeek and Elk Stack Integration. It has two parts. Not all the commands will work
-https://logz.io/blog/bro-elk-part-1/
-https://logz.io/blog/bro-elk-part-2/
+> A good introduction two Zeek and Elk Stack Integration. It has two parts. Not all the commands will work
+>
+>> https://logz.io/blog/bro-elk-part-1/
+>> https://logz.io/blog/bro-elk-part-2/
 There are 8 parts ( Not necessary to understand or go through everything) Not all the commands will work
 https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8
 https://zanderwork.com/blog/mobile-lab/
