@@ -16,8 +16,9 @@ You can start from here. You don’t need to understand everything today but hop
 ###### Deploying Zeek and Integration with ELK Stack
 You can start from here. You don’t need to understand everything today but hopefully you would be able to work on this in next 3 to 6 months.
 ## 3.Introduction to Zeek
-A great video introduction to Zeek NMS, recorded in 2020
-https://www.youtube.com/watch?v=GhGunM2YQeI&t=30s
+> A great video introduction to Zeek NMS, recorded in 2020
+>
+>> https://www.youtube.com/watch?v=GhGunM2YQeI&t=30s
 ### Official website
 https://zeek.org/
 ### Official YouTube channel
