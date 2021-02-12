@@ -46,16 +46,16 @@ Here are some blogs and articles on understanding Zeek, deployment and integrati
 >> https://logz.io/blog/bro-elk-part-1/
 >> https://logz.io/blog/bro-elk-part-2/
 There are 8 parts ( Not necessary to understand or go through everything) Not all the commands will work
-https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8
-https://zanderwork.com/blog/mobile-lab/
+> https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8
+> https://zanderwork.com/blog/mobile-lab/
 How to install Zeek on CentOS
-https://www.ericooi.com/zeekurity-zen-part-i-how-to-install-zeek-on-centos-8/
-https://www.ericooi.com/zeekurity-zen-part-ii-zeek-package-manager/
-https://www.ericooi.com/zeekurity-zen-part-iii-how-to-send-zeek-logs-to-splunk/
+> https://www.ericooi.com/zeekurity-zen-part-i-how-to-install-zeek-on-centos-8/
+> https://www.ericooi.com/zeekurity-zen-part-ii-zeek-package-manager/
+>https://www.ericooi.com/zeekurity-zen-part-iii-how-to-send-zeek-logs-to-splunk/
 Network Architecture
-https://newtonpaul.com/create-enterprise-monitoring-at-home-with-zeek-and-elk-part-1/
-https://knowm.org/integrate-bro-ids-with-elk-stack/
-7.    Lab Environment
+> https://newtonpaul.com/create-enterprise-monitoring-at-home-with-zeek-and-elk-part-1/
+> https://knowm.org/integrate-bro-ids-with-elk-stack/
+7.  Lab Environment
 You can setup your lab environment as follows
 https://newtonpaul.com/create-enterprise-monitoring-at-home-with-zeek-and-elk-part-1/
 ## 8.Testbed
