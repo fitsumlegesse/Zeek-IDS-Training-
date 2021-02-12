@@ -43,17 +43,20 @@ This video introduces how Zeek logs can be imported into ELK Stack
 Here are some blogs and articles on understanding Zeek, deployment and integration with ELK Stack. Not all blogs are relevant for your work but are great to start building a zeek instance.
 > A good introduction two Zeek and Elk Stack Integration. It has two parts. Not all the commands will work
 >
->> https://logz.io/blog/bro-elk-part-1/
->> https://logz.io/blog/bro-elk-part-2/
+> https://logz.io/blog/bro-elk-part-1/
+> https://logz.io/blog/bro-elk-part-2/
 There are 8 parts ( Not necessary to understand or go through everything) Not all the commands will work
 > https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8
 > https://zanderwork.com/blog/mobile-lab/
 How to install Zeek on CentOS
 > https://www.ericooi.com/zeekurity-zen-part-i-how-to-install-zeek-on-centos-8/
+>
 > https://www.ericooi.com/zeekurity-zen-part-ii-zeek-package-manager/
+>
 >https://www.ericooi.com/zeekurity-zen-part-iii-how-to-send-zeek-logs-to-splunk/
 Network Architecture
 > https://newtonpaul.com/create-enterprise-monitoring-at-home-with-zeek-and-elk-part-1/
+>
 > https://knowm.org/integrate-bro-ids-with-elk-stack/
 7.  Lab Environment
 You can setup your lab environment as follows
